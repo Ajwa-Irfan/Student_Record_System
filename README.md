@@ -1,4 +1,4 @@
-# Student Data System
+# Student Record System
 
 A simple PHP project for managing student data.
 
