@@ -24,13 +24,9 @@ A simple PHP project for managing student data.
 1. Place the project folder in your web server's document root.
 2. Access `main.php` via browser (e.g., http://localhost/student_data_system/main.php).
 
-## Recording Output
-
-If you want to record or share the output of the project (screenshots, exported data, etc.), save the files or images and include a link below:
+## Demo
 
 `Watch Project Demo[here](https://drive.google.com/file/d/1bJ7TxIQCBL7hrHYPiEvq6wnvqYHct9W9/view?usp=drive_link)`
-
-Replace the placeholder URL with your actual file or hosting location.
 
 ## Notes
 
