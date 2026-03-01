@@ -26,7 +26,7 @@ A simple PHP project for managing student data.
 
 ## Demo
 
-`Watch Project Demo[here](https://drive.google.com/file/d/1bJ7TxIQCBL7hrHYPiEvq6wnvqYHct9W9/view?usp=drive_link)`
+Watch Project Demo (https://drive.google.com/file/d/1bJ7TxIQCBL7hrHYPiEvq6wnvqYHct9W9/view?usp=drive_link)
 
 ## Notes
 
